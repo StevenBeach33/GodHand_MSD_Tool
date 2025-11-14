@@ -157,7 +157,8 @@ namespace GodHand_MSD_Tool.Enum
             {"®", 0x0081},
             {"'", 0x0082},
             {"î", 0x009B},
-            {"{NewLine}", 0xA001}
+            {"{NewLine}", 0xA001},
+            {"è"}, 0x0097},
             //{"Música", 0x8600},
             //{"<END>\n\n", 0x0180},
             //{"  ", 0xA301},
